@@ -25,13 +25,3 @@
 
 > 프로젝트 상세 내용, 트러블 슈팅 기록, 이력은 **위 노션 페이지**에 정리해 두었습니다.
 
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=solmin6320&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solmin6320&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-
-</div>
