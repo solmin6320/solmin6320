@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20There!%20I'm%20YOUR_NAME&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Always%20Learning&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20There!%20I'm%20Solmin&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Always%20Learning&descAlignY=55&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=solmin6320&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=solmin6320&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solmin6320&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 
 </div>
