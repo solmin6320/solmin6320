@@ -21,8 +21,10 @@
 ## 📌 Portfolio
 
 <div align="center">
-
-<a href="[https://clean-sea-93a.notion.site/398cf3b29e8880a5992cf85ea03d952a](https://clean-sea-93a.notion.site/3d7cf3b29e8880eda5bdf96dedbadc91?source=copy_link)"> <img src="https://img.shields.io/badge/포트폴리오%20보러가기-000000?style=for-the-badge&logo=notion&logoColor=white" height="42" /> </a> </div>
+  <a href="https://clean-sea-93a.notion.site/3d7cf3b29e8880eda5bdf96dedbadc91">
+    <img src="https://img.shields.io/badge/포트폴리오%20보러가기-000000?style=for-the-badge&logo=notion&logoColor=white" alt="포트폴리오 보러가기" height="42" />
+  </a>
+</div>
 
 > 프로젝트 상세 내용, 트러블슈팅 기록, 이력은 **위 노션 페이지**에 정리해 두었습니다.
 
