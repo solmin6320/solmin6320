@@ -32,7 +32,7 @@
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white&logoSize=auto" alt="포트폴리오 보러가기" height="44" />
       </a>
       <br><br>
-      <sub>프로젝트 상세 · 트러블슈팅 · 이력</sub>
+      프로젝트 상세 · 트러블슈팅 · 이력
       <br><br>
     </td>
     <td align="center" valign="top" width="280">
@@ -43,7 +43,7 @@
         <img src="https://img.shields.io/badge/Live%20Service-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto" alt="분실물 찾기 웹 사이트 바로가기" height="44" />
       </a>
       <br><br>
-      <sub>직접 설계 · 배포 · 운영 중</sub>
+      직접 설계 · 배포 · 운영 중
       <br><br>
     </td>
     <td align="center" valign="top" width="280">
@@ -54,7 +54,7 @@
         <img src="https://img.shields.io/badge/Study%20Blog-0F766E?style=for-the-badge" alt="학습 블로그 바로가기" height="44" />
       </a>
       <br><br>
-      <sub>학습한 내용들을 직접 기록</sub>
+      학습한 내용들을 직접 기록
       <br><br>
     </td>
   </tr>
