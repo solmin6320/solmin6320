@@ -54,7 +54,7 @@
         <img src="https://img.shields.io/badge/Study%20Blog-0F766E?style=for-the-badge&logo=githubpages&logoColor=white" alt="학습 블로그 바로가기" height="36" />
       </a>
       <br><br>
-      <sub>OS · Cloud 등 공부한 내용 기록</sub>
+      <sub>학습한 내용들을 직접 기록</sub>
       <br><br>
     </td>
   </tr>
