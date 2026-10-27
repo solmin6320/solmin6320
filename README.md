@@ -8,9 +8,14 @@
 
 ## 🙋‍♂️ About Me
 
+```text
 안녕하세요! 최선의 트레이드오프와 협업 커뮤니케이션을 중시하는 개발자 김솔민입니다.
+
+
 🌱  현재 관심사   : 트래픽 분산 및 서버 과부하 방지 | OS, Cloud 분야 학습
 🎯  올해 목표     : Lost-and-Found 기능 확장하기
+```
+
 <br>
 
 ## 📌 Portfolio
@@ -20,3 +25,5 @@
     <img src="https://img.shields.io/badge/포트폴리오%20보러가기-000000?style=for-the-badge&logo=notion&logoColor=white" alt="포트폴리오 보러가기" height="42" />
   </a>
 </div>
+
+> 프로젝트 상세 내용, 트러블슈팅 기록, 이력은 **위 노션 페이지**에 정리해 두었습니다.
