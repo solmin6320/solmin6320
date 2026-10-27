@@ -24,34 +24,34 @@
 
 <table>
   <tr>
-    <td align="center" width="280">
+    <td align="center" width="260">
       <br>
       <b>📒 포트폴리오</b>
       <br><br>
       <a href="https://clean-sea-93a.notion.site/3d7cf3b29e8880eda5bdf96dedbadc91" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white&logoSize=auto" alt="포트폴리오 보러가기" height="44" />
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="포트폴리오 보러가기" height="36" />
       </a>
       <br><br>
       <sub>프로젝트 상세 · 트러블슈팅 · 이력</sub>
       <br><br>
     </td>
-    <td align="center" width="280">
+    <td align="center" width="260">
       <br>
       <b>🔍 분실물 찾기 서비스</b>
       <br><br>
       <a href="https://d3gltjya6f51ok.cloudfront.net/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Live%20Service-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto" alt="분실물 찾기 웹 사이트 바로가기" height="44" />
+        <img src="https://img.shields.io/badge/Live%20Service-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="분실물 찾기 웹 사이트 바로가기" height="36" />
       </a>
       <br><br>
       <sub>직접 설계 · 배포 · 운영 중인 웹 서비스</sub>
       <br><br>
     </td>
-    <td align="center" width="280">
+    <td align="center" width="260">
       <br>
       <b>✍️ 학습 블로그</b>
       <br><br>
       <a href="https://solmin6320.github.io/study-Blog/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Study%20Blog-0F766E?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto" alt="학습 블로그 바로가기" height="44" />
+        <img src="https://img.shields.io/badge/Study%20Blog-0F766E?style=for-the-badge&logo=githubpages&logoColor=white" alt="학습 블로그 바로가기" height="36" />
       </a>
       <br><br>
       <sub>학습한 내용들을 직접 기록</sub>
