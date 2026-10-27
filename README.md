@@ -48,7 +48,7 @@
     </td>
     <td align="center" valign="top" width="280">
       <br>
-      <b>✍️ 학습 블로그</b>
+      <b>✍️ 메모 블로그</b>
       <br><br>
       <a href="https://solmin6320.github.io/study-Blog/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Study%20Blog-0F766E?style=for-the-badge" alt="학습 블로그 바로가기" height="44" />
