@@ -18,12 +18,18 @@
 
 <br>
 
-## 📌 Portfolio
+## 📌 Portfolio & Links
 
 <div align="center">
-  <a href="https://clean-sea-93a.notion.site/3d7cf3b29e8880eda5bdf96dedbadc91">
+  <a href="https://clean-sea-93a.notion.site/3d7cf3b29e8880eda5bdf96dedbadc91" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/포트폴리오%20보러가기-000000?style=for-the-badge&logo=notion&logoColor=white" alt="포트폴리오 보러가기" height="42" />
   </a>
+  &nbsp;
+  <a href="https://d3gltjya6f51ok.cloudfront.net/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🔍%20분실물%20찾기%20서비스-1D4ED8?style=for-the-badge" alt="분실물 찾기 웹 사이트 바로가기" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://solmin6320.github.io/study-Blog/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/학습%20블로그-0F766E?style=for-the-badge&logo=githubpages&logoColor=white" alt="학습 블로그 바로가기" height="42" />
+  </a>
 </div>
-
-> 프로젝트 상세 내용, 트러블슈팅 기록, 이력은 **위 노션 페이지**에 정리해 두었습니다.
