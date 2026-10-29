@@ -1,15 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="226" height="28" viewBox="0 0 226 28" role="img" aria-label="LOST-AND-FOUND">
+<svg xmlns="http://www.w3.org/2000/svg" width="178" height="28" viewBox="0 0 178 28" role="img" aria-label="LOST-AND-FOUND">
   <title>LOST-AND-FOUND</title>
-  <rect width="113" height="28" fill="#EBB341"/>
-  <rect x="113" width="113" height="28" fill="#3766B8"/>
-  <g transform="translate(10 4) scale(0.0222) translate(-60 -30)">
+  <rect width="89" height="28" fill="#EBB341"/>
+  <rect x="89" width="89" height="28" fill="#3766B8"/>
+  <g transform="translate(11 4) scale(0.0222) translate(-60 -30)">
     <path fill="#3766B8" stroke="#fff" stroke-width="28" stroke-linejoin="round" d="M748 55 885 262Q896 285 894 316L820 845Q808 898 765 900L597 877 569 209Z"/>
     <path fill="#EBB341" stroke="#fff" stroke-width="28" stroke-linejoin="round" d="M296 78 528 226Q552 241 557 268L627 772Q630 832 577 842L240 889Q177 893 167 835L97 333Q94 305 110 285Z"/>
     <circle cx="330" cy="323" r="67" fill="#fff"/>
     <circle cx="714" cy="300" r="67" fill="#fff"/>
   </g>
-  <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
-    <text x="70" y="18" textLength="64" lengthAdjust="spacing">LOST-AND-</text>
-    <text x="169.5" y="18" textLength="44" lengthAdjust="spacing">FOUND</text>
+  <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" font-weight="bold">
+    <text x="75" y="18" text-anchor="end" textLength="38" lengthAdjust="spacing">LOST-</text>
+    <text x="89" y="18" text-anchor="middle" textLength="26" lengthAdjust="spacing">AND</text>
+    <text x="103" y="18" text-anchor="start" textLength="50" lengthAdjust="spacing">-FOUND</text>
   </g>
 </svg>
