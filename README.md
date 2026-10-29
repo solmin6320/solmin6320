@@ -39,8 +39,8 @@
       <br>
       <b>🔍 분실물 찾기 서비스</b>
       <br><br>
-      <a href="https://d3gltjya6f51ok.cloudfront.net/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Live%20Service-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto" alt="분실물 찾기 웹 사이트 바로가기" height="44" />
+     <a href="https://d3gltjya6f51ok.cloudfront.net/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Lost--and--Found-1D4ED8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjYwIDMwIDg3MCA5MDAiPjxwYXRoIGZpbGw9IiMzNzY2QjgiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyOCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTc0OCA1NSA4ODUgMjYyUTg5NiAyODUgODk0IDMxNkw4MjAgODQ1UTgwOCA4OTggNzY1IDkwMEw1OTcgODc3IDU2OSAyMDlaIi8%2BPHBhdGggZmlsbD0iI0VCQjM0MSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjI4IiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNMjk2IDc4IDUyOCAyMjZRNTUyIDI0MSA1NTcgMjY4TDYyNyA3NzJRNjMwIDgzMiA1NzcgODQyTDI0MCA4ODlRMTc3IDg5MyAxNjcgODM1TDk3IDMzM1E5NCAzMDUgMTEwIDI4NVoiLz48Y2lyY2xlIGN4PSIzMzAiIGN5PSIzMjMiIHI9IjY3IiBmaWxsPSIjZmZmIi8%2BPGNpcmNsZSBjeD0iNzE0IiBjeT0iMzAwIiByPSI2NyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg%3D%3D&logoSize=auto" alt="분실물 찾기 웹 사이트 바로가기" height="44" />
       </a>
       <br><br>
       직접 설계 · 배포 · 운영 중
