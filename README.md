@@ -28,7 +28,7 @@
       <br>
       <b>📒 포트폴리오</b>
       <br><br>
-      <a href="https://clean-sea-93a.notion.site/3d7cf3b29e8880eda5bdf96dedbadc91" target="_blank" rel="noopener noreferrer">
+      <a href="https://solmin6320-09.notion.site/3d7cf3b29e8880eda5bdf96dedbadc91?source=copy_link" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white&logoSize=auto" alt="포트폴리오 보러가기" height="44" />
       </a>
       <br><br>
